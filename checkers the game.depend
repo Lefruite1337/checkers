@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667323437 source:e:\chechers university\checkers the game\main.cpp
+	<iostream>
+	<fstream>
+	<map>
+	<algorithm>
+	<conio.h>
+	<cstdlib>
+	<windows.h>
+	<unistd.h>
+
